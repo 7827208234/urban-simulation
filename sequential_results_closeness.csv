@@ -1,0 +1,11 @@
+Station Name,Efficiency,Transitivity,Centrality Type
+Green Park,0.09918991960788402,0.04472049689440994,Closeness Centrality
+King's Cross St. Pancras,0.09443475025566316,0.046632124352331605,Closeness Centrality
+Waterloo,0.09181648060183005,0.0445945945945946,Closeness Centrality
+Bank and Monument,0.08542563066911478,0.04285714285714286,Closeness Centrality
+West Hampstead,0.08054424756502003,0.0436046511627907,Closeness Centrality
+Canada Water,0.05810104159173278,0.04451038575667656,Closeness Centrality
+Stratford,0.051883620553389555,0.04830917874396135,Closeness Centrality
+Earl's Court,0.05035000093626794,0.03535353535353535,Closeness Centrality
+Shepherd's Bush,0.04439458727102797,0.03614457831325301,Closeness Centrality
+Oxford Circus,0.04295771061337044,0.0374331550802139,Closeness Centrality

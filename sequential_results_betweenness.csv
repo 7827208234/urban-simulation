@@ -1,0 +1,11 @@
+Station Name,Efficiency,Transitivity,Centrality Type
+Stratford,0.08891736066510689,0.05357142857142857,Betweenness Centrality
+King's Cross St. Pancras,0.08460293133575152,0.0559254327563249,Betweenness Centrality
+Waterloo,0.08182895253292936,0.054317548746518104,Betweenness Centrality
+Bank and Monument,0.07767794342812263,0.053019145802650956,Betweenness Centrality
+Canada Water,0.07283234083472483,0.05413533834586466,Betweenness Centrality
+West Hampstead,0.053210203984026455,0.055130168453292494,Betweenness Centrality
+Earl's Court,0.05165629952389727,0.04313099041533546,Betweenness Centrality
+Shepherd's Bush,0.0458442134055722,0.04404567699836868,Betweenness Centrality
+Euston,0.04163076968121037,0.04,Betweenness Centrality
+Baker Street,0.0381637040943985,0.03697183098591549,Betweenness Centrality

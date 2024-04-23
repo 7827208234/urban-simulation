@@ -1,0 +1,11 @@
+Station Name,Efficiency,Transitivity,Centrality Type
+Green Park,0.09918991960788402,0.04472049689440994,Closeness Centrality
+Bank and Monument,0.09673475608480861,0.04961832061068702,Closeness Centrality
+King's Cross St. Pancras,0.09698092211412515,0.05217391304347826,Closeness Centrality
+Westminster,0.09949907471754985,0.04767726161369193,Closeness Centrality
+Waterloo,0.0983898922965154,0.0484472049689441,Closeness Centrality
+Oxford Circus,0.10044780407646106,0.04466501240694789,Closeness Centrality
+Bond Street,0.09996825535543873,0.04785276073619632,Closeness Centrality
+Farringdon,0.10097670318452971,0.05060240963855422,Closeness Centrality
+Angel,0.10097670318452971,0.05060240963855422,Closeness Centrality
+Moorgate,0.09984927529989257,0.04767726161369193,Closeness Centrality

@@ -1,0 +1,11 @@
+Station Name,Efficiency,Transitivity,Centrality Type
+Stratford,0.08891736066510689,0.05357142857142857,Betweenness Centrality
+Bank and Monument,0.09673475608480861,0.04961832061068702,Betweenness Centrality
+Liverpool Street,0.09794046203225844,0.04875,Betweenness Centrality
+King's Cross St. Pancras,0.09698092211412515,0.05217391304347826,Betweenness Centrality
+Waterloo,0.0983898922965154,0.0484472049689441,Betweenness Centrality
+Green Park,0.09918991960788402,0.04472049689440994,Betweenness Centrality
+Euston,0.09200018498202017,0.04785276073619632,Betweenness Centrality
+Westminster,0.09949907471754985,0.04767726161369193,Betweenness Centrality
+Baker Street,0.09704487984670325,0.0484472049689441,Betweenness Centrality
+Finchley Road,0.09742956481452315,0.05128205128205128,Betweenness Centrality
